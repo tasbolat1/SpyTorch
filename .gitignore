@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+spytorch_notebook/
+testing_functions.ipynb
